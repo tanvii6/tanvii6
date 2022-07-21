@@ -1,4 +1,6 @@
+<p align="center">
 <img alt="Code" align="center" width="600" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47v5zx04xzdqjo2cusqng2sypvd5cdfhkvbrijerxj&rid=giphy.gif&ct=g">
+</p>
 <h1 align="center">Hi 👋, I'm Tanvi Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
