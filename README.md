@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Fronted projects**
+- 👯 I’m looking to collaborate on **Frontend projects**
 
 - 💬 More passionate to learn **New Tech**
 
